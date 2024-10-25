@@ -4,7 +4,10 @@
 
 ## Descripción
 
-En esta escena se han utilizado assets y prefabs como arañas y huevos para el uso y práctica de eventos y delegados en Unity.
+En esta escena se han utilizado assets y prefabs como arañas y huevos para el uso y práctica de eventos, delegados e IU en Unity.
+
+Se ha implementado un minijuego en el que, en 60 segundos, el jugador debe recolectar el máximo número de huevos y arañas. 
+Cada 100 puntos la velocidad del jugador se duplica por 5 segundos, indicándose con el icono de un rayo en la IU.
 
 ---
 
